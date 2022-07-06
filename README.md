@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZivFuchs
 - 👀 I’m interested in software engineering and web development.
 - 🌱 I’m currently studying Computer Science at University of California San Diego.
-- 💞️ I’m looking to collaborate on projects, hackathons (including Hash Code 2022 and SD Hacks 2022), and more.
+- 💞️ I’m looking to collaborate on projects, hackathons, and more.
 - 📫 To reach me, shoot me an email at ziv.fuchs@gmail.com.
 
 <!---
