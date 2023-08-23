@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZivFuchs
 - 👀 I’m interested in software engineering and web development.
-- 🌱 I’m currently studying Computer Science at University of California San Diego.
+- 🌱 I graduated from UCSD with a Bachelor's in Computer Science in August 2023.
 - 💞️ I’m looking to collaborate on projects, hackathons, and more.
 - 📫 To reach me, shoot me an email at ziv.fuchs@gmail.com.
 
